@@ -1,0 +1,85 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio cache directory
+.vs/
+
+# Rider cache directory
+.idea/
+.idea_modules/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Rider
+.idea/
+*.sln.iml
+
+# JetBrains
+*.DotSettings.user
+
+# Gradle cache
+.gradle/
+
+# Android Profiler
+profiler-results
+
+# Local environment
+.env
+.env.local
+
+# Addressables
+Assets/AddressableAssetsData/AssetBundles/
+ServerData/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup
+*.orig
+
+# Unity crash dumps
+crash-dumps/
+
+# Mono debug files
+mono_crash.*.json
+
+# Generated files
+*.csproj
+*.sln
+
+# Asset Store
+Assets/AssetStoreTools*
+
+# Plugins
+Assets/Plugins/
+
+# Exclude specific folders if needed
+# Assets/StreamingAssets/
+# Assets/Resources/
